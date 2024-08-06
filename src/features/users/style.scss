@@ -1,0 +1,13 @@
+@import "../../styles/_var.scss";
+
+.user-avatar {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	h3 {
+		color: $white;
+	}
+}

@@ -1,0 +1,45 @@
+$black: #000;
+$white: #fff;
+$border-color: #06f4e4;
+
+@mixin h1 {
+	font-size: 40px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 100%;
+}
+
+@mixin h2 {
+	font-size: 35px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 100%;
+}
+
+@mixin h3 {
+	font-size: 30px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 100%;
+}
+
+@mixin h4 {
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 100%;
+}
+
+@mixin h5 {
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 100%;
+}
+
+@mixin h6 {
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 100%;
+}
